@@ -1,0 +1,8 @@
+{
+  "name": "myfirst",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "badd2915"
+}
